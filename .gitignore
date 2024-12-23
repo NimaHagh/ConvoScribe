@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+.idea/
+*.pyc
+__pycache__/
+*.iml
+
+# Ignore uploads and temporary files
+static/uploads/
